@@ -40,4 +40,11 @@ Os sinais de controlo são extraídos diretamente dos bits da instrução, cada 
 * add R3, R1                                                     * dota R0, R4, R6
 0111 0000 1000 0000 (0x7080)                                     0001 1010 0110 0000 (0x1a60)
 
+### Run
+1. Open the project files using Logisim Evolution.
+2. Load the compiled machine instructions into the processor's instruction memory.
+3. Run the clock cycle simulation to execute calculations directly in hardware.
+
 ###############################################################################################################
+
+

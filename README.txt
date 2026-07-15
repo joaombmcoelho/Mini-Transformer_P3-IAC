@@ -1,7 +1,7 @@
 
 ###################################### Mini-Transformer Hardware Accelerator #################################
 
-#### Team ###
+### Team ###
 * João Coelho (me) 
 * Sara Cruz
 * Rita Vieira

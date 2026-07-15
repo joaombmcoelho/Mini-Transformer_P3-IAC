@@ -1,7 +1,13 @@
-16-bit processor with DOT acceleration
-  
-Final Grade
-19/20
+
+###################################### 16-bit processor with DOT acceleration #################################
+
+#### Team ###
+* João Coelho (me) 
+* Sara Cruz
+* Rita Vieira
+
+### Final Grade ####
+* 19/20
 
 ##################################################### READ ME #################################################
                                             ### Formatos de Instruções ###

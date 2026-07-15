@@ -10,6 +10,7 @@
 * 19/20
 
 ##################################################### READ ME #################################################
+                                            
                                             ### Formatos de Instruções ###
 As instruções têm um tamanho fixo de 16 bits e optamos por separá-las em três tipos: Tipo I (Imediato), Tipo A (Dois Registos) e Tipo D (Três Registos). A escolha do tamanho dos campos baseou-se nos seguintes critérios: 
 * Registos (3 bits): Permite endereçar um banco de 8 registos (R0 a R7).

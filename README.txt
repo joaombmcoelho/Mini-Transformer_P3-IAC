@@ -1,5 +1,5 @@
 
-###################################### 16-bit processor with DOT acceleration #################################
+###################################### Mini-Transformer Hardware Accelerator #################################
 
 #### Team ###
 * João Coelho (me) 
